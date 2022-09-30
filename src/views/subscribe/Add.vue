@@ -1,7 +1,7 @@
 <template>
   <div style="height: 100%; width: 70%; margin: auto">
     <el-button icon="el-icon-back" @click="$router.back()">Back</el-button>
-    <img style="width: 100%; margin-top: 60px" src="./assets/alert_add.png"/>
+    <img style="width: 100%; margin-top: 60px" src="./assets/add_subscription.png"/>
   </div>
 </template>
 
